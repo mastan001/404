@@ -1,6 +1,6 @@
 cd 
 
-git clone git@github.com:mastan001/404.git
+git clone http://github.com/mastan001/404.git
 
 cd 404
 
