@@ -1,4 +1,4 @@
-cd $HOME
+cd 
 
 git clone git@github.com:mastan001/404.git
 
